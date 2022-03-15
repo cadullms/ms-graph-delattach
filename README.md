@@ -1,0 +1,3 @@
+# ms-graph-delattach
+
+My stupid stumbling around using the MS Graph API to strip large attachments off my mailbox...
